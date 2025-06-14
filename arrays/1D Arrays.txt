@@ -1,0 +1,75 @@
+
+Mastering Arrays – Pure Theory & Core Problems (No Algorithms)
+
+
+
+🔹 1. Core Theory Topics
+
+i. Array Declaration
+
+ii. Initialization & Indexing
+
+iii. Length Property
+
+iv. Input/Output – Using loops to read and print
+
+v. Traversal
+
+vi. Updating Values
+
+vii. Array Copy – Manual vs Arrays.copyOf()
+
+viii. Arrays in Memory – Contiguous memory, fixed size
+
+ix. 1D vs 2D Arrays – Declaration and nested loop traversal
+
+
+
+🔹 2. Practice Problems (Only Basic Concepts)
+
+i. Print all elements of an array
+
+ii. Take array input and print it
+
+iii. Find the maximum element in array
+
+iv. Find the minimum element in array
+
+v. Calculate the sum of all elements
+
+vi. Count even and odd elements
+
+vii. Count occurrences of a specific element
+
+viii. Find second largest and second smallest elements
+
+ix. Reverse an array in-place
+
+x. Swap first and last elements
+
+
+
+🔹 3. Array Modifications
+
+i. Insert an element at a given position
+
+ii. Delete an element from a given position
+
+iii. Copy one array to another
+
+iv. Merge two arrays
+
+v. Check if two arrays are equal
+
+vi. Rotate array by 1 to the left
+
+vii. Rotate array by 1 to the right
+
+viii. Sort array using built-in methods
+
+ix. Find duplicate elements (brute force)
+
+x. Remove duplicate elements manually (brute force)
+
+
+
